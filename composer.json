@@ -2,7 +2,7 @@
   "name": "sfadless/phone-converter",
   "description": "phone converter",
   "require": {
-    "php": ">=7.1"
+    "php": ">=5.6"
   },
   "require-dev": {
     "phpunit/phpunit": "^7.2"
